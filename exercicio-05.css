@@ -1,0 +1,14 @@
+/* ---------------------------------------------------
+   Exercício 5: Bloco de Destaque (Card de Notícia)
+--------------------------------------------------- */
+#exercicio-05 {
+    display: flex;
+    justify-content: center;
+}
+.card-noticia {
+    background-color: #f9ca24; /* Cor de fundo diferente */
+    border: 1px solid #f0932b; /* Borda fina */
+    border-radius: 12px; /* Cantos arredondados */
+    max-width: 450px; /* Largura máxima definida */
+    padding: 20px;
+}

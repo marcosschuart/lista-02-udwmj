@@ -1,0 +1,18 @@
+/* ---------------------------------------------------
+   Exercício 4: Botão Estilizado
+--------------------------------------------------- */
+#exercicio-04 {
+    text-align: center;
+}
+.botao-estilizado {
+    text-decoration: none; /* Remove sublinhado padrão */
+    background-color: #27ae60; /* Cor de fundo */
+    color: #ffffff; /* Cor de texto */
+    padding: 15px 30px; /* Espaçamento interno */
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+.botao-estilizado:hover {
+    background-color: #2ecc71; /* Cor muda ao passar o mouse (hover) */
+}

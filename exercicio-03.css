@@ -1,0 +1,12 @@
+/* ---------------------------------------------------
+   Exercício 3: Receita Simples
+--------------------------------------------------- */
+#exercicio-03 {
+    padding: 50px; /* Espaçamento interno (padding) */
+}
+#exercicio-03 ul, #exercicio-03 ol {
+    color: #7f8c8d; /* Cor do texto das listas diferente do título */
+}
+#exercicio-03 h2 {
+    color: #e74c3c;
+}

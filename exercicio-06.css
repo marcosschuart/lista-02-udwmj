@@ -1,0 +1,21 @@
+/* ---------------------------------------------------
+   Exercício 6: Tabela de Preços Simples
+--------------------------------------------------- */
+#exercicio-06 {
+    display: flex;
+    justify-content: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+}
+th, td {
+    border: 1px solid #34495e; /* Bordas às células */
+    padding: 12px;
+    text-align: center; /* Alinhamento centralizado */
+}
+th {
+    background-color: #8e44ad; /* Cor de fundo do cabeçalho */
+    color: #ffffff;
+}

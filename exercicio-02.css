@@ -1,0 +1,18 @@
+/* ---------------------------------------------------
+   Exercício 2: Perfil de Personagem
+--------------------------------------------------- */
+#exercicio-02 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#exercicio-02 img {
+    width: 360px; /* Largura fixa */
+    aspect-ratio: 9/16; /* Mantendo a proporção vertical para visualização */
+    border-radius: 20px; /* Borda arredondada */
+    object-fit: cover;
+}
+#exercicio-02 ul {
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}

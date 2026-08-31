@@ -1,0 +1,14 @@
+/* ---------------------------------------------------
+   Exercício 7: Rodapé de Site (Footer)
+--------------------------------------------------- */
+footer {
+    background-color: #111111; /* Cor de fundo em um tom escuro */
+    color: #f1f1f1; /* Texto claro */
+    text-align: center; /* Alinhamento ao centro */
+    margin-top: 60px; /* Espaçamento superior */
+    padding: 30px;
+}
+footer a {
+    color: #3498db;
+    text-decoration: none;
+}
